@@ -1,0 +1,1 @@
+# 10SecondChallenge-app-ads.txt
